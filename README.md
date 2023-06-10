@@ -44,7 +44,12 @@ To run the code, you need the following prerequisites:
    - The predicted color of the image will be displayed.
 
 ## For Colab users:
-1. Download t 
+1. Download the zip file "Color_images_labelled.zip" for training the model and image file "1429590.jpg" for testing the model, these are available in this repository.
+2. Open the zip file in your system and extract the sub-folder by copying it and pasting to any relevant folder in your computer system.
+3. Open colab and upload the extracted folder as it is. Also upload the "1429590.jpg" image.
+4. Copy the code from "Code.py" file and paste it on the cell of colab.
+5. Run the cell to see the output.
+6. You can check the result by uploading any other relevant image of your choice and then replacing the test file with it.
 ## Contributing
 
 Contributions to this repository are always welcome. If you have any suggestions, improvements, or bug fixes, please submit a pull request.
