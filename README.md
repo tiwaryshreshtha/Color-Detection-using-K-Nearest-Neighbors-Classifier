@@ -43,6 +43,8 @@ To run the code, you need the following prerequisites:
    - Run the code to load the image and extract color features.
    - The predicted color of the image will be displayed.
 
+## For Colab users:
+1. Download t 
 ## Contributing
 
 Contributions to this repository are always welcome. If you have any suggestions, improvements, or bug fixes, please submit a pull request.
